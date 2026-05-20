@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is SilancePy and I'm a Backend Developer, from Indonesia</h2>
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/snake.svg" alt="Snake animation" />
 
 ###

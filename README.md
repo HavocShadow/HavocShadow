@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/HavocShadow/HavocShadow/blob/main/workflows/stats.yml" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 

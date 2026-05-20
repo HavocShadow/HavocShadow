@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/HavocShadow/HavocShadow/main/assets/banner.png"/>

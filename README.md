@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm SilancePy</h1>
 <h3 align="center">Backend Developer from Indonesia</h3>
 
-## 🌐 Socials
 <p align="center">
-  <a href="https://instagram.com/rennn.xyrr">
+  <a href="https://instagram.com/rennn.xyrr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="mailto:pysilance@gmail.com">
@@ -11,7 +10,22 @@
   </a>
 </p>
 
-## 💻 Tech Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HavocShadow/HavocShadow/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/HavocShadow/HavocShadow/languages-output/languages.svg" height="150" alt="languages graph" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgflip.com/65efzo.gif" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="35" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
@@ -27,21 +41,22 @@
   <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat-square&logo=wireguard&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=HavocShadow&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=HavocShadow&theme=radical&hide_border=false" />
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HavocShadow&theme=radical&hide_border=false&layout=compact" />
 </p>
 
-## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HavocShadow&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 
-## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>

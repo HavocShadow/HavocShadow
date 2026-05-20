@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm SilancePy</h1>
 <h3 align="center">Backend Developer from Indonesia</h3>
 
----
-
 ## 🌐 Socials
 <p align="center">
   <a href="https://instagram.com/rennn.xyrr">
@@ -12,8 +10,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 ## 💻 Tech Stack
 <p align="center">
@@ -31,8 +27,6 @@
   <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat-square&logo=wireguard&logoColor=white" />
 </p>
 
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=HavocShadow&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
@@ -42,21 +36,15 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HavocShadow&theme=radical&hide_border=false&layout=compact" />
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HavocShadow&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 
----
-
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HavocShadow&icon=0&color=0" />
